@@ -1,0 +1,3 @@
+django==1.7.4
+django-cacheops==2.2.1
+django-tracking2==0.2.3
