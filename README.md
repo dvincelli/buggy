@@ -8,7 +8,7 @@ pip install -r requirements.txt
 python manage.py runserver 0.0.0.0:5000
 ```
 
-visit 127.0.0.1:5000 and receive a stack trace (also available at http://dpaste.com/1M9N1JZ )
+visit http://127.0.0.1:5000/ once and refresh. You will receive a stack trace (also available at http://dpaste.com/1M9N1JZ )
 
 ```
 Environment:
