@@ -1,5 +1,5 @@
 # buggy
-A repro django app for a bug report involving django-cacheops and django-tracking2
+A minimal django app to repro a bug  involving django-cacheops and django-tracking2
 
 ```
 virtualenv env
